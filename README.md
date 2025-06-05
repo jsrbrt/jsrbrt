@@ -6,7 +6,7 @@
 - 🧩 Obsessed with making code clean and readable  
 - 🍌 Probably working on something weird and cool  
 - 🎓 Currently a Student of Systems Analysis and Development at [Unibra](https://www.grupounibra.com) (2023 - Present)  
-- 🌍 🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian  
+- 🇧🇷 Portuguese | 🇺🇸 English | 🇮🇹 Italian  
 
 ---
 
