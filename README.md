@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsrbrt&layout=compact&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats-dusky-two-70.vercel.app/api/top-langs/?username=jsrbrt&layout=compact&theme=tokyonight" width="48%">
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ### 📈 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsrbrt&show_icons=true&theme=tokyonight" width="58%">
+  <img src="https://github-readme-stats-dusky-two-70.vercel.app/api?username=jsrbrt&show_icons=true&theme=tokyonight" width="58%">
 </p>
 
 ---
